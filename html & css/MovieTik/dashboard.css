@@ -26,10 +26,25 @@
     background-color: rgb(211, 37, 37);
     color: white;
 }
-.footer{
+.movies{
     display: flex;
-    justify-content: center;
-    align-items:end;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.box{
+    border: 1px solid;
+}
+.movies2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    border: 1px solid;
+}
+.footer{
     position: fixed;
     bottom: 0;
+    margin-left: 580px;
+    margin-bottom: 10px;
 }
