@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+}
+.logo h3{
+    margin-top: 30px;
+    color: red;
+}
+.header input{
+    height: 30px;
+    width:300px;
+    margin-top: 25px;
+    border: 2px solid;
+    padding:5px;
+    border-radius: 5px;
+}
+.header button{
+    margin: 30px;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0;
+    background-color: rgb(211, 37, 37);
+    color: white;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items:end;
+    position: fixed;
+    bottom: 0;
+}

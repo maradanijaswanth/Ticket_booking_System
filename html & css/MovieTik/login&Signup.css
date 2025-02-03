@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(211, 37, 37);
+}
+.first{
+    display: flex;
+}
+.first h3{
+    margin-top: 25px;
+}
+.second button{
+    width: 80px;
+    height: 30px;
+    margin-right: 50px;
+    border-radius: 5px;
+    border: 0;
+    background-color: rgb(211, 37, 37);
+    color: white;
+}
+.card{
+    border: 2px solid rgb(0, 0, 0);
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+}
+form h1{
+    color: rgb(211, 37, 37);
+}
+form input{
+    padding: 10px;
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+form button{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0;
+    background-color: rgb(211, 37, 37);
+    color: white;
+    font-size: 15px;
+}
